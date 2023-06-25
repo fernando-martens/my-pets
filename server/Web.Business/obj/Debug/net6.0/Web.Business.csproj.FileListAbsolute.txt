@@ -1,0 +1,15 @@
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\bin\Debug\net6.0\Web.Business.deps.json
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\bin\Debug\net6.0\Web.Business.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\bin\Debug\net6.0\Web.Business.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\bin\Debug\net6.0\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\bin\Debug\net6.0\Web.Models.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.csproj.AssemblyReference.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.AssemblyInfoInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.AssemblyInfo.cs
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.csproj.CoreCompileInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.csproj.CopyComplete
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\refint\Web.Business.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\Web.Business.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Business\obj\Debug\net6.0\ref\Web.Business.dll

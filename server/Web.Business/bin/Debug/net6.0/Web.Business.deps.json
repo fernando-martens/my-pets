@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Web.Business/1.0.0": {
+        "dependencies": {
+          "Web.Models": "1.0.0"
+        },
+        "runtime": {
+          "Web.Business.dll": {}
+        }
+      },
+      "Web.Models/1.0.0": {
+        "runtime": {
+          "Web.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cluc7+mDBQZxRaNSfhmecmhLaWnVH1F6puSz9Rxf8C5HZyFlMpZP8tPAsti/YsbvqhgZ1Y2KgapjM6TRLCvMiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fernando.martens\\Documents\\Desenvolvimento\\projects\\pets-register-entity\\server\\Web.Infra\\Web.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando.martens\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

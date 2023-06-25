@@ -1,0 +1,12 @@
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\bin\Debug\net6.0\Web.Models.deps.json
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\bin\Debug\net6.0\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\bin\Debug\net6.0\Web.Models.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.csproj.AssemblyReference.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.AssemblyInfoInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.AssemblyInfo.cs
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\refint\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\Web.Models.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Models\obj\Debug\net6.0\ref\Web.Models.dll

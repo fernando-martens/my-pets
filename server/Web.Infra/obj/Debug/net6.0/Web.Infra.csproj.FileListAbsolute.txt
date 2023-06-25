@@ -1,0 +1,17 @@
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Infra.deps.json
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Infra.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Infra.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Business.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Business.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\bin\Debug\net6.0\Web.Models.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.csproj.AssemblyReference.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.AssemblyInfoInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.AssemblyInfo.cs
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.csproj.CoreCompileInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.csproj.CopyComplete
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\refint\Web.Infra.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\Web.Infra.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Infra\obj\Debug\net6.0\ref\Web.Infra.dll

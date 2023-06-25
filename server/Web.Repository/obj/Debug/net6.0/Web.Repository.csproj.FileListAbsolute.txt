@@ -1,0 +1,17 @@
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Repository.deps.json
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Repository.runtimeconfig.json
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Repository.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Repository.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Models.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\bin\Debug\net6.0\Web.Models.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.csproj.AssemblyReference.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.AssemblyInfoInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.AssemblyInfo.cs
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.csproj.CopyComplete
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\refint\Web.Repository.dll
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.pdb
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\Web.Repository.genruntimeconfig.cache
+C:\Users\fernando.martens\Documents\Desenvolvimento\projects\pets-register-entity\server\Web.Repository\obj\Debug\net6.0\ref\Web.Repository.dll
